@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5623
     wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39072#The-A.E.F.--With-General-Pershing-and-the-American-Forces
 gutenberg_issued: '2012-03-07'
 gutenberg_type: Text
 identifiers:
