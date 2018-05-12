@@ -1,0 +1,30 @@
+_repo: The-A.E.F.--With-General-Pershing-and-the-American-Forces_39072
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39072-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39072'
+  lccn: '18008202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. American Expeditionary Forces'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+title: 'The A. E. F.: With General Pershing and the American Forces'
+url: http://www.gutenberg.org/ebooks/39072
